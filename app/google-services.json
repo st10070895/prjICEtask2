@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1049006874802",
+    "firebase_url": "https://burgerworld-ae912-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "burgerworld-ae912",
+    "storage_bucket": "burgerworld-ae912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049006874802:android:191768a800c8a43c5a69ab",
+        "android_client_info": {
+          "package_name": "com.example.firebasebasics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8imLXdac6MAr-Ei_8pUXTsilklFvnMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
